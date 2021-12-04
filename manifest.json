@@ -1,0 +1,16 @@
+{
+    "name":"Webgl Test",
+    "short_name": "Webgl Test",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#231651",
+    "description": "A Webgl Test with PWA",
+    "theme_color": "#231651",
+    "icons": [
+      {
+        "src": "./img/boom.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
